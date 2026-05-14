@@ -5,6 +5,6 @@
 ## Type: single
 ## MainFile: deskgen
 ## Author: moyunni
-## Homepage: https://chinchilla.rnhost.ru
+## Homepage: https://moyunni.github.io
 ## Source: https://codeberg.org/moyunni/chistore/raw/branch/main/deskgen
 ## Dependencies: sys:coreutils,nano,desktop-file-utils
