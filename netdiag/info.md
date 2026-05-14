@@ -5,6 +5,6 @@
 ## Type: single
 ## MainFile: netdiag
 ## Author: moyunni
-## Homepage: https://chinchilla.rnhost.ru
+## Homepage: https://moyunni.github.io
 ## Source: https://codeberg.org/moyunni/chistore/raw/branch/main/netdiag
 ## Dependencies: sys:curl,bash
