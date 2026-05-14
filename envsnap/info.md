@@ -5,6 +5,6 @@
 ## Type: single
 ## MainFile: envsnap
 ## Author: moyunni
-## Homepage: https://chinchilla.rnhost.ru
+## Homepage: https://moyunni.github.io
 ## Source: https://codeberg.org/moyunni/chistore/raw/branch/main/envsnap
 ## Dependencies: sys:curl,bash
