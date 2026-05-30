@@ -6,7 +6,7 @@ Ships with `envsnap` — a lightweight system/environment state tracker with dif
 
 # Repository Mirrors:
 
-[GitHub](https://github.com/moyunni/chistore),
+[MansionGIT](https://git.inthemansion.com/moyunni/chistore),
 [GitVerse](https://gitverse.ru/chinchilla/chistore) and
 [Codeberg](https://codeberg.org/moyunni/chistore)
 
