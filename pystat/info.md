@@ -5,6 +5,6 @@
 ## Type: python
 ## MainFile: pystat
 ## Author: moyunni
-## Homepage: https://moyunni.github.io
+## Homepage: https://moyunni.codeberg.page
 ## Source: https://codeberg.org/moyunni/chistore/raw/branch/main/pystat
 ## Dependencies: pip:psutil,rich
