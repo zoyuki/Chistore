@@ -1,12 +1,9 @@
 ## Name: Asukanator
-## Description: IRC translator plugin for HexChat (EN<>RU)
+## Description: HexChat IRC translator plugin (EN↔RU) with auto-translate
 ## Version: 2026.5
-## Size: 3K
+## Size: 4K
 ## Type: python-hexchat
-## MainFile: tran.py
+## MainFile: install
 ## Author: chinchilla
-## Homepage: https://codeberg.org/chinchilla/asukanator
-## Source: https://codeberg.org/chinchilla/asukanator/raw/branch/main/asukanator
+## Homepage: https://codeberg.org/chinchilla
 ## Dependencies: sys:hexchat,python38-bin|pip:deep_translator
-## InstallPath: ~/.config/hexchat/addons
-## PythonVersion: 3.8
