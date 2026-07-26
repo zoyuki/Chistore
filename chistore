@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_USER="moyunni"
-REPO_NAME="chistore"
+REPO_USER="moyunnis"
+REPO_NAME="Chistore"
 BRANCH="main"
-BASE_URL="https://codeberg.org/${REPO_USER}/${REPO_NAME}/raw/branch/${BRANCH}"
+BASE_URL="https://github.com/${REPO_USER}/${REPO_NAME}/raw/branch/${BRANCH}"
 
 CHISTORE_URL="${BASE_URL}/chistore"
 CHISTORE_VER_URL="${BASE_URL}/VERSION"
