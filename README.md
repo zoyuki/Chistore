@@ -7,14 +7,14 @@ Ships with `envsnap` — a lightweight system/environment state tracker with dif
 # Repository Mirrors:
 
 [MansionGIT](https://git.inthemansion.com/moyunni/chistore),
-[GitVerse](https://gitverse.ru/chinchilla/chistore)
+[Github](https://github.com/zoyuki/Chistore)
 
 **Updates are released faster on codeberg. 10 minutes after writing the repository to codeberg, the changes will go to the mirrors.**
 
 ## Install
 
 ```bash
-curl -fsSL "https://github.com/moyunnis/chistore/raw/branch/main/chistore" -o ~/.local/bin/chistore
+curl -fsSL "https://github.com/zoyuki/Chistore/raw/branch/main/chistore" -o ~/.local/bin/chistore
 chmod +x ~/.local/bin/chistore
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc  # or ~/.zshrc
 source ~/.bashrc
