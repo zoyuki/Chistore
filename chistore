@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_USER="moyunnis"
+REPO_USER="zoyuki"
 REPO_NAME="Chistore"
 BRANCH="main"
 BASE_URL="https://github.com/${REPO_USER}/${REPO_NAME}/raw/branch/${BRANCH}"
